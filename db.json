@@ -5,14 +5,28 @@
       "name": "Denchik",
       "surname": "Kh",
       "age": 28,
-      "ava_url": "https://i.pravatar.cc/150?img=3"
+      "ava_url": "https://i.pravatar.cc/300?img=3"
     },
     {
       "id": 2,
       "name": "Sarah",
       "surname": "Brightman",
       "age": 22,
-      "ava_url": "https://i.pravatar.cc/150?img=25"
+      "ava_url": "https://i.pravatar.cc/300?img=25"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "surname": "Petrucci",
+      "age": 45,
+      "ava_url": "https://i.pravatar.cc/300?img=11"
+    },
+    {
+      "id": 4,
+      "name": "Les",
+      "surname": "Paul",
+      "age": 78,
+      "ava_url": "https://i.pravatar.cc/300?img=66"
     }
   ]
 }
