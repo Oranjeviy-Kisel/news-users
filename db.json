@@ -1,6 +1,11 @@
 {
-  "name": "Den",
-  "surname": "Kh",
-  "age": 38,
-  "avatar_url": "https://i.pravatar.cc/150?img=3"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
