@@ -1,18 +1,18 @@
 {
-  "posts": [
+  "authors": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Denchik",
+      "surname": "Kh",
+      "age": 28,
+      "ava_url": "https://i.pravatar.cc/150?img=3"
     },
     {
       "id": 2,
-      "title": "I am 2"
+      "name": "Sarah",
+      "surname": "Brightman",
+      "age": 22,
+      "ava_url": "https://i.pravatar.cc/150?img=25"
     }
-  ],
-  "profile": {
-    "name": "Denchik",
-    "surname": "Kh",
-    "age": 28,
-    "ava_url": "https://i.pravatar.cc/150?img=3"
-  }
+  ]
 }
